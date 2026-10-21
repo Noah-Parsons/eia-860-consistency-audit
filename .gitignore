@@ -1,0 +1,5 @@
+# Downloaded USWTDB release (re-download from the USGS USWTDB page)
+uswtdb_*.csv
+uswtdb_*.xml
+CHANGELOG.txt
+__pycache__/

@@ -1,0 +1,32 @@
+USWTDB uswtdb_V9_1_20260928.csv: 77,839 turbines; 76,165 onshore turbines in projects completed by 2025
+EIA-860 2025: 1,368 plants with operable onshore wind, 159,560 MW
+
+1. Inside USWTDB
+  turbines with no EIA plant code: 3,398 in 423 projects (1,647 MW where turbine capacity is given)
+  turbines with no turbine capacity: 3,480
+  projects whose stated turbine count (p_tnum) differs from the turbines listed: 316 of 1859
+  projects whose stated capacity (p_cap) differs from the sum of their turbines by more than 10% and 5 MW: 97 of 1675
+
+2. Coverage
+  EIA wind plants with no turbines in USWTDB: 95 (2,728 MW)
+  USWTDB plant codes with no operable EIA wind: 72 (3,159 MW): 15 are EIA plants without operable wind, 57 are not operable EIA plants at all
+
+3. Capacity, where both sources have the plant
+  plants matched: 1273; with every turbine's capacity given: 1265
+  totals for those: EIA 156,425 MW, USWTDB 153,697 MW
+  disagree by more than 10% and 5 MW: 79 plants (USWTDB higher: 28, lower: 51)
+
+4. Location
+  EIA plant location more than 25 km from the median of its turbines: 16 plants
+  EIA state not among the turbines' states: 0 plants
+
+5. Wyoming
+  plants: 31; flagged: 8
+    692.0 Medicine Bow: EIA - MW, USWTDB 6.27 MW; no operable EIA wind;
+    55740.0 Rock River I Repowering: EIA - MW, USWTDB 53.58 MW; no operable EIA wind;
+    62591.0 Ekola Flats: EIA 250.9 MW, USWTDB 199.3 MW; capacity differs;
+    63436.0 Corriedale Wind Energy: EIA 52.5 MW, USWTDB 59.22 MW; capacity differs;
+    67026.0 Roundhouse Renewable Energy II: EIA 105.7 MW, USWTDB 87.4 MW; capacity differs;
+    67769.0 Rock Creek Wind: EIA 590.0 MW, USWTDB 402.6 MW; capacity differs;
+    67916.0 Foote Creek Rim: EIA 134.8 MW, USWTDB 46.2 MW; capacity differs;
+    68497.0 Rock Creek Wind Energy Center I: EIA - MW, USWTDB 195.2 MW; no operable EIA wind;
