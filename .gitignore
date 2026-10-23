@@ -3,3 +3,5 @@ uswtdb_*.csv
 uswtdb_*.xml
 CHANGELOG.txt
 __pycache__/
+uspvdb_*.csv
+uspvdb_*.xml

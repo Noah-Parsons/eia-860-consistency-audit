@@ -1,0 +1,64 @@
+USPVDB uspvdb_v4_0_20260414.csv: 6,611 facilities, 131,574 MWac
+EIA-860 2025: 7,324 plants with operable PV, 152,895 MWac
+
+1. Location: EIA-860 plant coordinates against the mapped arrays
+  more than  10 km apart:  111 plants, 4,915 MWac
+  more than  25 km apart:   43 plants, 2,033 MWac
+  more than  50 km apart:   12 plants, 556 MWac
+  more than 100 km apart:    5 plants, 286 MWac
+  largest plants more than 10 km apart:
+ eia_id                        p_name p_state  p_cap_ac  dist_km    ylat     xlong  Latitude  Longitude  p_dig_conf
+  64347      Mockingbird Solar Center      TX     471.0  39.2940 33.6490  -95.7157   33.3917   -95.4252           2
+  67006             Greasewood II LLC      TX     306.0  14.3269 31.0289 -102.4841   31.1041  -102.6062           4
+  63328            Juno Solar Project      TX     302.5  22.3018 32.7774 -101.6295   32.7729  -101.3910           4
+  66637 McFarland B Solar and Storage      AZ     300.0  11.7086 32.9237 -113.5948   32.9575  -113.4760           2
+  68429       Fairbanks Solar Project      IN     250.0  10.0027 39.2504  -87.4341   39.1933   -87.5238           3
+  63840                  Sparta Solar      TX     250.0  10.9683 28.5634  -97.9605   28.6553   -98.0014           4
+  66262              Cutlass Solar II      TX     202.8  38.4972 29.2408  -95.4217   29.3900   -95.7800           4
+  63913                    Dodge Flat      NV     200.0 117.9755 39.6561 -119.3459   40.7130  -119.4672           4
+  65333                  Shakes Solar      TX     200.0  16.1174 28.5858  -99.7344   28.4421   -99.7558           4
+  65793      Concho Valley Solar, LLC      TX     172.8  23.4472 31.3636 -100.4289   31.2140  -100.2550           4
+  60044              Buckthorn Westex      TX     154.0  62.5536 31.0808 -102.8393   30.5755  -102.5513           4
+  60034       CA Flats Solar 150, LLC      CA     150.0  26.2432 35.8350 -120.2973   35.6156  -120.4044           4
+  60033       CA Flats Solar 130, LLC      CA     130.0  29.2488 35.8719 -120.3316   35.6156  -120.4044           4
+  62178           Maverick Solar, LLC      CA     125.0  14.5241 33.6995 -115.2230   33.7000  -115.3800           4
+  65319               Maplewood Solar      VA     120.0  14.6076 36.8828  -79.4840   36.8900   -79.3200           4
+
+2. Capacity density above 230 MWdc/km2 (imagery after the first year)
+  78 facilities, 1,378 MWac
+ eia_id                            p_name p_state  p_year  img_year multi_poly  p_cap_ac  eia_mw_ac  p_cap_dc  p_area  density
+  63300               Athos Solar Project      CA    2019      2024      multi     250.0      250.0     365.0 1257441    290.3
+  68297                 Green River Solar      KY    2025      2026      multi     200.0      200.0     200.0  301111    664.2
+  62014 Highlander Solar Energy Station 1      VA    2020      2022      multi     165.0      165.0     200.1  274614    728.7
+  67137               Great Cove Solar II      PA    2023      2024      multi     150.0      150.0     178.6  374215    477.3
+  64878               Edwards Sanborn E1A      CA    2021      2024     single     149.3      149.3     157.0  186844    840.3
+  64106             Maverick Solar 7, LLC      CA    2021      2025      multi     132.0      132.0     179.0   62529   2862.7
+  59851                 Great Bay Solar 1      MD    2018      2019     single      75.0      118.0      99.0  135446    730.9
+  62657                      DWW Solar ll      CT    2019      2021     single      26.4       36.9      49.5  137297    360.5
+  61449            RE Gaskell West 5, LLC      CA    2018      2024     single      20.0       20.0      20.0   84711    236.1
+  67172                 Colice Hall Solar      NC    2023      2025      multi      17.0       17.0      26.0   86149    301.8
+  65476                       GDIM 3, LLC      RI    2021      2023     single       9.6        9.6      13.0   23346    556.8
+  65477                       GDIM 4, LLC      RI    2021      2023      multi       9.6        9.6      12.2   30288    402.8
+  60680                  ANAD Solar Array      AL    2017      2021      multi       7.4        7.4       9.7   39717    244.2
+  64070           BD Solar Ellsworth, LLC      ME    2022      2024     single       7.0        7.0      10.1   30432    331.9
+  62374                JBAB-Washington DC      DC    2019      2022      multi       5.9        5.9       7.0   15913    439.9
+
+3. EIA plants of 1 MW or more, in service by 2022, not in USPVDB
+  73 plants, 685 MWac
+                                      Plant Name State  eia_mw_ac  eia_first  eia_last
+Plant Code                                                                            
+63211.0                      Samson Solar Energy    TX      250.0     2022.0    2022.0
+64564.0              Arlington Energy Center III    CA      131.0     2022.0    2022.0
+63518.0            Twin Rivers Solar Power Plant    FL       74.9     2021.0    2021.0
+70211.0                        Bluegrass Solar 2    MD       40.0     2022.0    2022.0
+69187.0     Big Bend 1 Solar and Battery Storage    FL       19.8     2017.0    2017.0
+66983.0                            MDU / NVSS-II    NV       13.5     2017.0    2017.0
+58556.0                       Indy Solar II, LLC    IN       10.1     2013.0    2013.0
+57785.0                      RE Bruceville 3 LLC    CA        5.0     2012.0    2012.0
+69002.0           Brattleboro (Windham Landfill)    VT        5.0     2018.0    2018.0
+70144.0                        Hermon Solar, LLC    ME        5.0     2022.0    2022.0
+70145.0                 Somerset Solar, LLC (ME)    ME        5.0     2022.0    2022.0
+66256.0           Source Power Company - Aldrich    NY        5.0     2022.0    2022.0
+62737.0                         West Valley West    NY        5.0     2022.0    2022.0
+67374.0                  TPE Whitmell Solar, LLC    VA        5.0     2020.0    2020.0
+64117.0                         Meadowlark Solar    NC        4.9     2018.0    2018.0

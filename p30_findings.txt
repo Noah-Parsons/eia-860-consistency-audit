@@ -30,3 +30,14 @@ EIA-860 2025: 1,368 plants with operable onshore wind, 159,560 MW
     67769.0 Rock Creek Wind: EIA 590.0 MW, USWTDB 402.6 MW; capacity differs;
     67916.0 Foote Creek Rim: EIA 134.8 MW, USWTDB 46.2 MW; capacity differs;
     68497.0 Rock Creek Wind Energy Center I: EIA - MW, USWTDB 195.2 MW; no operable EIA wind;
+
+6. Groups of neighbouring codes that still disagree, by kind
+  groups compared: 809; disagreeing: 54
+    capacity differs: 15 groups, net -348 MW (USWTDB minus EIA)
+    code assignment: 4 groups, net +430 MW (USWTDB minus EIA)
+    in USWTDB without a plant code: 4 groups, net -560 MW (USWTDB minus EIA)
+    proposed, not yet operating, in EIA: 2 groups, net +528 MW (USWTDB minus EIA)
+    recent build: 1 groups, net -595 MW (USWTDB minus EIA)
+    retired or cancelled in EIA: 7 groups, net +86 MW (USWTDB minus EIA)
+    turbines missing: 13 groups, net -1,116 MW (USWTDB minus EIA)
+    unexplained: 8 groups, net +21 MW (USWTDB minus EIA)

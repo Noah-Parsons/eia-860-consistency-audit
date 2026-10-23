@@ -1,0 +1,55 @@
+group,codes,state,names,eia_mw,usw_mw,diff_mw,turbines_listed,usw_stated_turbines,usw_stated_mw,eia_latest_first_year,kind
+6,69224,OK,Wagon Wheel Wind,598.4,3.4,-595.0,1,176,598.4,2025.0,recent build
+0,64665;56905;56560;56225;64666;65704,OK;TX,Great Plains Windpark LLC; Great Prairie Wind; Great Prairie Wind 1; Great Prairie Wind 2; Gruver Wind; Indian Mesa / Aeolus; JD Wind 4; Noble Great Plains; Porterhouse Wind (4) LLC,1220.8,924.4,-296.4,373,373,924.4,2022.0,capacity differs
+115,58884,IA,Lundgren Wind Project,270.9,0.0,-270.9,0,0,0.0,2014.0,in USWTDB without a plant code (105 turbines within 10 km)
+120,56495;60132,WV,"NedPower Mount Storm; NedPower Mount Storm, Phase I; NedPower Mount Storm, Phase II; New Creek Wind",367.0,108.5,-258.5,52,181,366.5,2016.0,turbines missing
+2,56291;56484;56638;55968;56240;56270;56649,TX,Buffalo Gap 2; Buffalo Gap 2 Wind Farm; Buffalo Gap 3; Buffalo Gap 3 Wind Farm; Buffalo Gap Wind Farm; Callahan Divide; Callahan Divide Wind Energy Center; Horse Hollow Expansion; Horse Hollow II; Horse Hollow III; Horse Hollow Wind Energy Center; Horse Hollow Wind Energy Center; South Trent Mesa; South Trent Wind Farm; Trent Mesa; Trent Mesa Repower; Trent Wind Farm,1626.0,1378.4,-247.6,814,1075,1834.7,2009.0,unexplained
+236,62592,IN,Headwaters Wind Farm II LLC,200.0,0.0,-200.0,0,0,0.0,2021.0,code assignment (see 58416)
+291,56111;61417;59245;56457,TX,Brazos Wind Farm; Brazos Wind Ranch; Fluvanna; Fluvanna I; Gopher Creek Wind Farm; Post Wind Farm LP; Red Canyon Wind Energy,579.8,398.4,-181.4,210,369,557.4,2019.0,turbines missing
+310,67763,TX,Hart Wind,166.4,0.0,-166.4,0,0,0.0,2025.0,in USWTDB without a plant code (46 turbines within 10 km)
+1,63479,OK,"Traverse Wind; Traverse Wind Project, LLC",999.0,837.2,-161.8,299,356,996.4,2022.0,turbines missing
+78,57260,TX,Cedro Hill; Cedro Hill Wind LLC,300.0,150.0,-150.0,100,100,159.7,2010.0,capacity differs
+180,56979;56394,TX,Forest Creek Wind Farm LLC; Forest Creek Wind Project; Panther Creek III; Panther Creek Wind Farm Three,339.7,219.7,-120.0,136,187,337.0,2009.0,turbines missing
+442,64065,NM,Duran Mesa LLC,105.0,0.0,-105.0,0,0,0.0,2021.0,in USWTDB without a plant code (38 turbines within 10 km)
+396,67916,WY,"Foote Creek II, III, IV Repowering; Foote Creek Rim",134.8,46.2,-88.6,11,11,46.2,2024.0,capacity differs
+273,63489,OK,"Sundance Wind; Sundance Wind Project, LLC",199.0,121.3,-77.7,43,72,199.4,2021.0,turbines missing
+96,64139;62711,NE,"Haystack; Haystack Wind Project, LLC; Plum Creek; Plum Creek Wind Project (NE)",528.0,456.2,-71.8,127,151,528.3,2022.0,turbines missing
+128,62591;56843,WY,Ekola Flats; Seven Mile Hill; Seven Mile Hill I & II,397.1,344.4,-52.7,130,129,373.0,2020.0,capacity differs
+296,61916;58351;58587,MI,Pegasus Wind; Pegasus; Pegasus II; Tuscola Bay Wind; Tuscola II; Tuscola Wind II LLC,398.3,349.1,-49.2,185,194,371.6,2019.0,turbines missing
+570,63287;55816,IA,Cerro Gordo Repower; Cerro Gordo Wind Farm; Hawkeye Power Partners LLC,84.0,36.8,-47.2,16,16,36.8,2020.0,capacity differs
+302,60657,TX,"Salt Fork; Salt Fork Wind Project, LLC",174.0,128.0,-46.0,64,87,174.0,2016.0,turbines missing
+220,60672,MO,Osborn; Osborn Wind Energy,200.9,155.6,-45.3,75,97,200.9,2016.0,turbines missing
+511,63251;56622;56297;56408,IL,"Agriwind; Crescent Ridge; Lone Tree; Lone Tree Wind, LLC; Providence Heights; Providence Heights Wind LLC",212.4,168.5,-43.9,72,72,168.5,2020.0,capacity differs
+149,61926,OK,"Armadillo Flats; Armadillo Flats Wind Project, LLC",247.3,206.7,-40.6,103,126,247.3,2018.0,turbines missing
+226,62566;61970,TX,Blue Summit II; Blue Summit II Wind; Blue Summit III; Blue Summit III Wind,299.6,267.1,-32.5,110,123,299.6,2019.0,turbines missing
+107,59475,TX,Palo Duro; Palo Duro Wind,282.3,249.9,-32.4,147,147,249.9,2014.0,capacity differs
+306,57189,MO,Lost Creek Ridge Wind Farm; Lost Creek Wind Energy Facility,168.0,150.0,-18.0,100,99,148.5,2010.0,capacity differs
+633,10005,CA,Dinosaur Point,17.4,0.0,-17.4,0,0,0.0,1988.0,in USWTDB without a plant code (25 turbines within 10 km)
+468,61866,OK,Wildhorse Mountain Wind Facility,100.0,82.8,-17.2,24,29,100.0,2019.0,turbines missing
+463,56293,NM,Caprock Wind Farm; Caprock Wind Repower,100.0,85.5,-14.5,19,20,90.0,2004.0,turbines missing
+632,57748,MT,Gordon Butte; Gordon Butte Wind LLC,17.7,9.0,-8.7,6,6,9.0,2012.0,capacity differs
+791,57693,CO,NREL - NWTC,0.0,5.8,5.8,3,6,7.1,,unexplained
+744,58958;59022,MA,Camelot Wind LLC; Camelot Wind Project; No Fossil Fuel - Kingston,1.5,7.5,6.0,4,4,7.5,2012.0,capacity differs
+794,58044,IA,Pioneer Grove,0.0,6.0,6.0,2,2,6.0,,retired or cancelled in EIA
+768,692,WY,Medicine Bow,0.0,6.3,6.3,9,2,1.3,,retired or cancelled in EIA
+780,56226,OH,AMP-Ohio/Green Mountain Energy Wind Farm; Bowling Green Municipal,0.0,7.2,7.2,4,4,7.2,,retired or cancelled in EIA
+786,57259,TX,Lubbock Wind Ranch,0.0,7.5,7.5,3,1,2.5,,unexplained
+795,58424,TX,Harbor Wind,0.0,9.0,9.0,6,6,9.0,,unexplained
+802,61848,TX,PYCO Soaring Wind Farm,0.0,10.0,10.0,10,10,10.0,,unexplained
+788,57264,TX,DeWind Little Pringle #2,0.0,10.0,10.0,5,5,10.0,,retired or cancelled in EIA
+787,57263,TX,DeWind Little Pringle #1,0.0,10.0,10.0,5,5,10.0,,retired or cancelled in EIA
+661,63521,IA,CED Mason City Wind; Mason City Wind; Mason Wind LLC Mason City,7.5,17.9,10.4,8,8,17.9,2020.0,capacity differs
+793,57889,OK,KODE Novus II,0.0,20.0,20.0,10,20,40.0,,retired or cancelled in EIA
+799,61132,PR,Punta Lima Repower,0.0,26.0,26.0,13,13,26.0,,unexplained
+781,56493,TN,Buffalo Mountain,0.0,27.0,27.0,15,15,27.0,,retired or cancelled in EIA
+345,57874,IA,"Vienna I, II Repowering; Vienna Wind Farm",150.2,186.0,35.8,60,60,186.0,2012.0,capacity differs
+401,56506;56775;56602,TX,Camp Springs; Camp Springs II; Scurry County Wind II; Scurry County Wind LP; Snyder,250.5,313.5,63.0,188,167,282.0,2007.0,capacity differs
+798,61014,PR,Santa Isabel,0.0,101.2,101.2,44,44,101.2,,unexplained
+36,63981;64054;64066,NM,Clines Corners Wind Farm LLC; Red Cloud Wind LLC; Tecolote Wind LLC; Western Spirit,947.0,1055.6,108.6,377,377,1055.6,2021.0,capacity differs
+403,60596;56634;57867;56633;65513,NY,Baron Winds Farm; Baron Winds I; Baron Winds II; Cohocton Wind Project; Dutch Hill Wind Project; Dutch Hill/Cohocton; Howard; Howard Wind Farm,310.4,419.2,108.8,135,160,482.6,2023.0,unexplained
+782,56779,TX,Sherbino I,0.0,150.0,150.0,50,50,150.0,,code assignment (see 57415)
+196,59943;59972;63342,TX,Bearkat; Bearkat I; Bearkat II; Rattlesnake; Rattlesnake Den,403.9,570.0,166.1,222,222,565.8,2018.0,capacity differs
+263,58416,IN,Headwaters Wind Farm LLC; Headwaters; Headwaters II,200.0,378.8,178.8,144,149,398.0,2014.0,code assignment (counterpart)
+806,64342,ND,Badger Wind,0.0,257.6,257.6,92,92,250.0,,"proposed, not yet operating, in EIA"
+808,68873,TX,Big Sampson Wind,0.0,270.0,270.0,60,60,270.0,,"proposed, not yet operating, in EIA"
+807,64667,OK;TX,Great Prairie Wind 3,0.0,301.7,301.7,107,89,251.0,,code assignment (see 64665)
