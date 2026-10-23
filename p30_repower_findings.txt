@@ -1,0 +1,25 @@
+EIA-860 2025: 1,368 plants with operable onshore wind, 159,560 MW, 1,570 generators
+USWTDB uswtdb_V9_1_20260928.csv: 76,165 onshore turbines built by 2025
+
+A. Generators repeated within a plant (same model and turbine count), where USWTDB lists the plant's turbines once and completely
+  plants with a repeated generator of 10 or more turbines: 8; where EIA exceeds USWTDB's complete count by half in turbines and 30% in capacity: 1
+    57260 Cedro Hill Wind LLC (TX): EIA 300.0 MW, 300 turbines in 2 generators; USWTDB 100 turbines, 150.0 MW (100 marked retrofit)
+    not counted: 61079 Beaver Creek Wind (IA), EIA 170 turbines; USWTDB 85 under this code but 138 of the same age within 10 km
+
+B. Operable plants with no turbines in USWTDB, none of their age nearby, and a newer plant within 10 km
+  EIA plants with no turbines under their code in USWTDB: 95; meeting all conditions: 2
+    55816 Hawkeye Power Partners LLC (IA, 1999): EIA 42.0 MW, 55 turbines. USWTDB within 5 km: 16 turbines (Cerro Gordo Repower)
+        newer plant 63287 Cerro Gordo Wind Farm (2020), 42.0 MW
+    56297 Crescent Ridge (IL, 2005): EIA 53.0 MW, 28 turbines. USWTDB within 5 km: 42 turbines (Lone Tree; Providence Heights; unknown Bureau County)
+        newer plant 56622 Providence Heights Wind LLC (2008), 72.0 MW
+        newer plant 63251 Lone Tree Wind, LLC (2020), 79.0 MW
+
+C. Plants where USWTDB shows a repowering (all turbines retrofitted) but EIA's turbine count is at least 1.5 times USWTDB's
+    55265 Lake Benton II (MN): EIA 100.2 MW, 137 turbines, model Z-50; USWTDB 44 turbines listed (44 stated), 100.2 MW
+    56293 Caprock Wind Farm (NM): EIA 100.0 MW, 80 turbines, model V150-4.2; USWTDB 19 turbines listed (20 stated), 85.5 MW
+    56450 GSG LLC (IL): EIA 80.0 MW, 40 turbines, model G87-2.0; USWTDB 26 turbines listed (26 stated), 88.4 MW
+    57260 Cedro Hill Wind LLC (TX): EIA 300.0 MW, 300 turbines, model 1.5 XLE; USWTDB 100 turbines listed (100 stated), 150.0 MW
+
+D. Generators reporting under 0.3 MW per turbine with a turbine model of 2 MW or more
+    58883 Highland Wind Project (IA) (IA) generator HLWF: 16.4 MW, 214 turbines, model SWT-2.3-108
+    59637 Adams Wind (IA) generator ADWF: 4.7 MW, 64 turbines, model SWT-2.3-108
