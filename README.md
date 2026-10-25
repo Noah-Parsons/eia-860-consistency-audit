@@ -1,4 +1,4 @@
-# P30: EIA-860 Data Consistency Audit
+# EIA-860 Data Consistency Audit
 
 A plant-by-plant check of the US Energy Information Administration's generator inventory (Form EIA-860) against independent national databases built from aerial imagery and other sources. The question is how often the two disagree, which one is wrong when they do, and whether the errors change any published total.
 
